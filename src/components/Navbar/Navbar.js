@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import Link from '../Link/Link';
 import {MenuIcon, XIcon} from '@heroicons/react/solid'
+import Links from './../Links/Links';
 const Navbar = () => {
     const [open, setOpen] = useState(false);
         const routes = [
@@ -16,10 +16,10 @@ const Navbar = () => {
                 {open? <XIcon></XIcon> : <MenuIcon></MenuIcon>}
             </div>
             <ul className={`md:flex justify-center absolute duration-500 ease-in md:static bg-indigo-400 w-full ${open ? 'top-6' : 'top-[-120px]'}`}>
-                {routes.map(route => <Link
+                {routes.map(route => <Links
                  key={route.id}
                  route={route}
-                 ></Link> )}
+                 ></Links> )}
             </ul>
         </nav>
     );
