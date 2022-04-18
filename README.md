@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# website live link:[https://watch-storebd-shuvokd.netlify.app/](https://watch-storebd-shuvokd.netlify.app/);
+## website github link: [https://github.com/programming-hero-web-course-4/product-analysis-website-shuvokd](https://github.com/programming-hero-web-course-4/product-analysis-website-shuvokd) ;
 # About My Website :
 
 *  It's a multipage website
