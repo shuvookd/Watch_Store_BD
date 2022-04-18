@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react';
-import useData from '../hooks/useData';
 import HomeReview from '../Review/Review';
+import useData from './../hooks/useData';
 
 const Review = () => {
-    // const [information ]=useData([]);
+    const [information ]=useData([]);
     const [newapi,setapi]=useState('');
     const [searchtext,setsearchtext]=useState([]);
 
