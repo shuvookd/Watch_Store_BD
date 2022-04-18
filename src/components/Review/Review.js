@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import HomeReview from '../Review/Review';
-import useData from './../hooks/useData';
+import useData from '../../hooks/useData';
 
 const Review = () => {
     const [information ]=useData([]);

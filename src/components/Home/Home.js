@@ -2,7 +2,7 @@ import img from './Home.jpg'
 import './Home.css'
 import HomeReview from '../HomeReview/HomeReview';
 import { Link } from 'react-router-dom';
-import useData from '../hooks/useData';
+import useData from '../../hooks/useData';
 const Home = () => {
     const [information]=useData([]);
     return (
@@ -16,12 +16,7 @@ const Home = () => {
 
                 </h1>
                 <br />
-                <p><small>Established in the year 2019 at Pune, Maharashtra,
-                     we “Kanifa Technology” are a 
-                    Sole Proprietorship based firm, engaged as the foremost 
-                    Wholesaler and Trader of Bullet Camera, Dome Camera and much more. 
-                    Our products are high in demand due to their premium quality and affordable prices.
-                     Furthermore, we ensure to timely deliver these products to our clients, through this we have gained a huge clients base in the market.</small></p>
+                <p><small>Hello Watch Lovers. This is most trusted page to buy watch. Here is different watches collections in our store. Come and visit Bosundhara City in our shop . Thank You.</small></p>
 
                 <br />
                 <button className='btn bg-primary text-white fw-bold'>Read More </button>
