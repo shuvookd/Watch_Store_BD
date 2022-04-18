@@ -1,0 +1,65 @@
+[
+    {
+      "id": "6249bad7583da2823c8cc422",
+      "picture": "images/p13.jpg",
+      "name": "Barrett Luna",
+      "rating": "4.5",
+      "comment": "Proident velit irure eiusmod laborum nulla. Velit labore ea dolore reprehenderit exercitation culpa amet nulla tempor. Nisi labore anim aliquip cupidatat duis deserunt dolore eu aliqua eiusmod."
+    },
+    {
+      "id": "6249bad73b195b4c88d57ff7",
+      "picture": "images/p2.jpg",
+      "name": "Jacobs Malone",
+      "rating": "5.0",
+      "comment": "Aute pariatur in eu esse enim ut dolor et pariatur eiusmod reprehenderit et. Non officia elit aute enim officia dolor eu sit consectetur ad consequat sunt fugiat nisi. Aliquip aute eu minim in id amet Lorem. "
+    },
+    {
+      "id": "6249bad70aa75f535d9314ef",
+      "picture": "images/p33.jpg",
+      "name": "Randi Montoya",
+      "rating": "4.0",
+      "comment": "Amet dolore aliqua nulla est quis sit elit. Exercitation consectetur culpa tempor eu veniam qui. Nisi nulla ad aliqua consectetur esse dolore duis ipsum consectetur ."
+    },
+    {
+      "id": "6249bad794daa4387918078b",
+      "picture": "images/p5.jpg",
+      "name": "Holt Gilbert",
+      "rating": "4.0",
+      "comment": "Labore exercitation pariatur consequat non cupidatat aute nulla nulla elit. In nostrud aute excepteur ut mollit fugiat quis esse do adipisicing. Ex tempor est fugiat aliquip ipsum duis est veniam labore ad nulla ea et exercitation.  "
+    },
+    {
+      "id": "6249bad72d1e5d0cf686c476",
+      "picture": "images/p12.jpg",
+      "name": "Elsa Stephens",
+      "rating": "2.5",
+      "comment": "Occaecat nostrud anim ullamco ex. Est sint dolore incididunt cupidatat commodo minim do fugiat dolor. Ut dolore esse Lorem voluptate Lorem enim velit dolor. Sunt duis exercitation deserunt amet qui elit nisi dolore proident. "
+    },
+    {
+      "id": "6249bad72727fe92c3946efe",
+      "picture": "images/p6.jpg",
+      "name": "Emily Crane",
+      "rating": "4.5",
+      "comment": "Eiusmod amet laboris quis officia eiusmod quis eu id mollit. Commodo duis mollit cupidatat aute voluptate id ullamco laboris occaecat ea dolore. Est ut aliqua sint culpa ullamco. Sint ullamco aute officia ullamco ea."
+    },
+    {
+      "id": "6249bad754cd308720e59897",
+      "picture": "images/p49.jpg",
+      "name": "Cochran Leblanc",
+      "comment": "Elit sit eiusmod Lorem enim sint nostrud minim laboris ad enim consectetur incididunt velit. Eu consequat magna duis ex. Qui ipsum proident est deserunt adipisicing tempor irure ea nulla. Fugiat occaecat enim ad ea occaecat laboris tempor minim qui dolor eiusmod occaecat anim. Officia voluptate exercitation ", 
+    "rating": "4.0"
+    },
+    {
+      "id": "6249bad73c573497ebb9732c",
+      "picture": "images/p9.jpg",
+      "name": "Brittney Conrad",
+      "comment": "Officia proident nisi cupidatat do cillum irure ipsum irure incididunt pariatur exercitation. Reprehenderit occaecat anim id cupidatat aliqua minim dolor. Esse velit mollit laborum labore nulla commodo. Consectetur elit nisi sint ullamco laboris anim quis fugiat duis quis .",
+      "rating": "5.0"
+    },
+    {
+      "id": "6249bad7a32b010442ba3d8e",
+      "picture": "images/p8.jpg",
+      "name": "Spence Dejesus",
+      "rating": "4.5",
+      "comment": "Labore quis quis duis nulla exercitation eiusmod qui. Exercitation nostrud velit esse eu culpa proident. Dolor reprehenderit cupidatat nostrud tempor anim fugiat in anim consectetur."
+    }
+  ]

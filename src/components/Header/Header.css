@@ -1,0 +1,17 @@
+
+
+.costom nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+    padding: 35px;
+    background: rgb(27, 27, 27);
+}
+.costom nav a{
+    margin-right: 30px;
+    font-weight: 700;
+    font-size: 18px;
+    
+}
+

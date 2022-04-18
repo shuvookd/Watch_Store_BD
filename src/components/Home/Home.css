@@ -1,0 +1,28 @@
+.newcss2 img{
+    width: 80%;
+  
+    
+
+}
+.test{
+    color: rgb(3, 142, 255);
+}
+.section-css{
+
+    background-color: #ffffff;
+}
+.testcss{
+    color: rgb(3, 142, 255);
+    font-weight: 700;
+    padding-top: 20%;
+    align-items: center;
+    justify-content: center;
+}
+.card-css{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+}
+
+
+    
+

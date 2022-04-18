@@ -1,13 +1,25 @@
 import React from 'react';
-import Navbar from '../Navbar/Navbar';
+
+import CustomLink from '../customLink/CostomLink';
+import './Header.css';
 
 const Header = () => {
     return (
-        <div>
-            <Navbar>
+        <div className='costom'>
+           
+            <nav className='nav'>
 
-            </Navbar>
-    
+                <CustomLink to="/" >HOME</CustomLink>
+                <CustomLink to="/review" >REVIEW</CustomLink>
+                <CustomLink to="/dashboard" >DASHBOARD</CustomLink>
+                <CustomLink to="/blogs" >BLOGS</CustomLink>
+                <CustomLink to="/about" >ABOUT US</CustomLink>
+              
+                
+              
+
+            </nav>
+            
         </div>
     );
 };
